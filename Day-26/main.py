@@ -1,0 +1,1 @@
+values = [key:value for (key,value) in dict if value<=60]
