@@ -3,7 +3,7 @@ import random
 import smtplib
 import datetime as dt  # Corrected datetime import
 
-# Get the current day of the month
+
 weeks = dt.datetime.now()
 print(weeks.day)
 
